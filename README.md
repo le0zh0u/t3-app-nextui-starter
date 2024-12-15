@@ -1,4 +1,6 @@
-# Create T3 App
+# T3 App NextUI Starter
+
+** Landing page code is from [gonzalochale/nextui-saas-landing-template](https://github.com/gonzalochale/nextui-saas-landing-template).**
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
